@@ -1,0 +1,66 @@
+﻿@using WeatherReminder.ViewModels;
+@using WeatherReminder.ViewModels.HomeViewModels
+@model HomePageViewModel
+
+
+<div class="col-md-12 justify-content-center">
+    <div>
+        <h2 class="text-center">Upcoming Reminders</h2>
+    </div>
+    <div class="row no-gutters custom-border">
+        @foreach (var forecast in Model.DailyForecasts)
+        {
+                <div class="col custom-border">
+                    <h4 class="bg-primary text-white text-center">@forecast.Date.DayOfWeek, @forecast.Date.Month/@forecast.Date.Day</h4>
+                    <div class="p-1">
+                    @if (Model.TemperatureCutoff <= forecast.Temperature.Maximum.Value && Model.TemperatureCutoff >= forecast.Temperature.Minimum.Value)
+                    {
+                                <div>Temperature will hit @Model.TemperatureCutoff°</div>
+                    }
+                    @if (forecast.Day.HasPrecipitation)
+                    {
+                                <div><strong>Daytime:</strong> @forecast.Day.IconPhrase</div>
+                    }
+                    @if (forecast.Night.HasPrecipitation)
+                    {
+                                <div><strong>NightTime:</strong> @forecast.Night.IconPhrase</div>
+                    }
+
+                    </div>
+                </div>
+        }
+    </div>
+</div>
+
+
+<style>
+    .row {
+        display: flex;
+    }
+
+    .col {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .no-gutters {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+        .no-gutters > .col,
+        .no-gutters > [class*="col-"] {
+            padding-right: 0;
+            padding-left: 0;
+        }
+
+    .custom-border {
+        border: 1px solid black;
+    }
+
+    .row.custom-border > [class^="col-"] {
+        border-left: none;
+        border-right: none;
+    }
+</style>

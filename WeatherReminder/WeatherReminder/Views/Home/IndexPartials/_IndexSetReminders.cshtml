@@ -1,0 +1,66 @@
+﻿@using WeatherReminder.ViewModels;
+@using WeatherReminder.ViewModels.HomeViewModels
+@model HomePageViewModel
+
+<div class="col-md-5">
+    @*Reminder*@
+    <ul class="list-group border border-dark border-2">
+        <li class="list-group-item text-center  bg-secondary">
+            <h4 class="text-dark inline mr-4">Reminders</h4>
+            <img src="/images/reminder.jpg" class="img-fluid img-thumbnail" style="max-height: 40px;" alt="Responsive image">
+        </li>
+        <li class="list-group-item">
+            <div class="container">
+                @if (Model.Reminders.Count == 0)
+                {
+                        <div class="row mt-1 justify-content-center">
+                            <div class="col-md-12" id="ulContainer">
+                                <ul class="list-group">
+                                    <li class="list-group-item border border-light border-1">
+                                        <div class="text-danger text-center">You have no reminders.</div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                }
+                else
+                {
+                        <div class="row mt-1 justify-content-center">
+                            <div class="col-md-8">
+                                <ul class="list-group">
+                                @foreach (var remind in Model.Reminders)
+                                {
+                                    string time = remind.ReminderTime.ToString("hh:mm tt");
+
+                                    if (remind.DaysBeforeEvent == 0)
+                                    {
+                                                    <li class="list-group-item text-center border border-light border-1">
+                                                        <div class="text-info inline">Day of event</div> at <div class="inline text-info">@time</div>
+                                                    </li>
+                                    }
+                                    else if (remind.DaysBeforeEvent == 1)
+                                    {
+                                                    <li class="list-group-item text-center border border-light border-1">
+                                                        <div class="text-info inline">@remind.DaysBeforeEvent day before Event</div> at <div class="inline text-info">@time</div>
+                                                    </li>
+                                    }
+                                    else
+                                    {
+                                                    <li class="list-group-item text-center border border-light border-1">
+                                                        <div class="text-info inline">@remind.DaysBeforeEvent days before Event</div> at <div class="inline text-info">@time</div>
+                                                    </li>
+                                    }
+                                }
+                                </ul>
+                            @if (Model.Reminders.Count > 1)
+                            {
+                                        <p class="text-info text-center">Note: Only the first reminder will be sent.</p>
+                            }
+                            </div>
+                        </div>
+                }
+            </div>
+        </li>
+        <a class="list-group-item list-group-item-action hover text-center bg-primary text-white font-weight-bold" role="button" asp-area="" asp-controller="Edit" asp-action="Reminders">Edit</a>
+    </ul>
+</div>

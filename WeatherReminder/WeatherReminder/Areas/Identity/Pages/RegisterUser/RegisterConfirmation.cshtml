@@ -1,0 +1,51 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Register confirmation";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+@{
+    if (@Model.DisplayConfirmAccountLink)
+    {
+        <p>
+            This app does not currently have a real email sender registered, see <a href="https://aka.ms/aspaccountconf">these docs</a> for how to configure a real email sender.
+            Normally this would be emailed: <a id="confirm-link" href="@Model.EmailConfirmationUrl">Click here to confirm your account</a>
+        </p>
+    }
+    else
+    {
+        <p>Please check your email to confirm your account. If the email is not received within a few minutes, click the recend button below.</p>
+        <p class="text-danger">Make sure to check your spam folder if not received after a few minutes.</p>
+        @if ((Model.TotalAttempts - Model.ResendVerificationAttempts) > 1)
+        {
+            <form method="post">
+                <input type="hidden" asp-for="Email" value="@Model.Email">
+                <button type="submit" class="btn btn-primary">Resend Confirmation Email</button>
+            </form>
+            <p class="text-info">You have @(Model.TotalAttempts-Model.ResendVerificationAttempts) attempts remaining.</p>
+        }
+        else if ((Model.TotalAttempts - Model.ResendVerificationAttempts) == 2)
+        {
+            <form method="post">
+                <input type="hidden" asp-for="Email" value="@Model.Email">
+                <button type="submit" class="btn btn-primary">Resend Confirmation Email</button>
+            </form>
+            <p class="text-info">You have 1 attempt remaining.</p>
+
+        }
+        else if ((Model.TotalAttempts - Model.ResendVerificationAttempts) == 1)
+        {
+            <form method="post">
+                <input type="hidden" asp-for="Email" value="@Model.Email">
+                <button type="submit" class="btn btn-primary">Resend Confirmation Email</button>
+            </form>
+            <p class="text-info">This is your last attempt. If unsuccessful, you will have to wait an hour to register again.</p>
+        }
+        else
+        {
+            <p class="text-info">You have no more resend attempts. Click here to go to the home page: <a asp-page="Login">Home</a></p>
+        }
+    }
+}

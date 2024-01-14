@@ -1,0 +1,144 @@
+﻿@{
+    ViewData["Title"] = "Umbrella";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model EditUmbrellaViewModel
+@using Newtonsoft.Json;
+@using Newtonsoft.Json.Converters;
+@using WeatherReminder.Areas.Identity
+@using WeatherReminder.ViewModels.EditViewModels
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h1 class="display-3 text-center">@ViewData["Title"]</h1>
+            <h4 class="mt-5">Settings</h4>
+
+            <form asp-action="Umbrella" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="row">
+                    <div class="col-md-8">
+                        <ul class="list-group">
+                            <li class="list-group-item border border-dark border-1">
+                                <div class="form-row">
+                                    <div class="container">
+                                        <label asp-for="IsReminder" class="control-label"></label>
+                                        <input asp-for="IsReminder" class="form-check-input ml-3 h-75 w-25" type="checkbox" id="isReminderInput" style="top:-3px; max-width:25px; max-height:25px; position: relative;" />
+                                        <span asp-validation-for="IsReminder" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+
+
+
+                <h4 class="mt-4">Reminders</h4>
+                @if (Model.RemindersList.Count == 0)
+                {
+                                        <div class="row mt-1">
+                                            <div class="col-md-10" id="ulContainer">
+                                                <ul class="list-group">
+                                                    <li class="list-group-item border border-dark border-1">
+                                                        <div class="container">
+                                                            <div class="row">
+                                                                <div class="text-danger">You have no reminders. Click "Add Reminders" to add new reminders.</div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+
+                                                    <a class="list-group-item list-group-item-action hover text-center bg-primary text-white font-weight-bold" id="add" href="javascript:;">Add Reminders</a>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                }
+                else
+                {
+                                        <div class="row mt-1">
+                                            <div class="col-md-12" id="ulContainer">
+                                                <ul class="list-group">
+
+                                @foreach (var remind in Model.RemindersList)
+                                {
+                                    string time = remind.ReminderTime.ToString("hh:mm tt");
+                                    if (remind.DaysBeforeEvent == 0)
+                                    {
+                                                                                                    <li class="list-group-item border border-dark border-1">
+                                                                                                        <div class="container">
+                                                                                                            <div class="row">
+                                                                                                                <div class="col-md-8">
+                                                                                                                    <div class="inline text-info">Day of event</div> at <div class="inline text-info">@time</div>
+                                                                                                                </div>
+                                                                                                                <div class="col-md-4">
+                                                                                                                    <a href="javascript:;" class="inline text-primary mr-3 edit">Edit</a>
+                                                                                                                    <a href="javascript:;" class="inline text-primary remove">Remove</a>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </li>
+                                    }
+                                    else if (remind.DaysBeforeEvent == 1)
+                                    {
+                                                                                                    <li class="list-group-item list-group-item border border-dark border-1">
+                                                                                                        <div class="container">
+                                                                                                            <div class="row">
+                                                                                                                <div class="col-md-8">
+                                                                                                                    <div class="inline text-info">@remind.DaysBeforeEvent day before event</div> at <div class="inline text-info">@time</div>
+                                                                                                                </div>
+                                                                                                                <div class="col-md-4">
+                                                                                                                    <a href="javascript:;" class="inline text-primary mr-3 edit">Edit</a>
+                                                                                                                    <a href="javascript:;" class="inline text-primary remove">Remove</a>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </li>
+                                    }
+                                    else
+                                    {
+                                                                                                    <li class="list-group-item list-group-item border border-dark border-1">
+                                                                                                        <div class="container">
+                                                                                                            <div class="row">
+                                                                                                                <div class="col-md-8">
+                                                                                                                    <div class="inline text-info">@remind.DaysBeforeEvent days before Event</div> at <div class="inline text-info">@time</div>
+                                                                                                                </div>
+                                                                                                                <div class="col-md-4">
+                                                                                                                    <a href="javascript:;" class="inline text-primary mr-3 edit">Edit</a>
+                                                                                                                    <a href="javascript:;" class="inline text-primary remove">Remove</a>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </li>
+                                    }
+                                }
+
+                                                    <a class="list-group-item list-group-item-action hover text-center bg-primary text-white font-weight-bold" id="add" href="javascript:;">Add Reminders</a>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                }
+
+
+
+                <input type="hidden" asp-for="RemindersString" value="@Model.RemindersString">
+
+
+                <div class="row mt-4">
+                    <div class="col-md-6">
+                        <button type="submit" class="btn btn-primary mr-3">Save</button>
+                        <a class="btn btn-light" role="button" asp-area="" asp-controller="Home" asp-action="Index">Cancel</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script type="module" src="~/js/AddUmbrellaReminder.js"></script>
+<script type="module" src="~/js/EditUmbrellaReminder.js"></script>
+<script type="module" src="~/js/RemoveUmbrellaReminder.js"></script>

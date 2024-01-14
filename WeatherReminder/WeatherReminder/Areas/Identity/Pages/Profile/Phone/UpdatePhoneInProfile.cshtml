@@ -1,0 +1,104 @@
+﻿@page
+@model UpdatePhoneInProfileModel
+@{
+    ViewData["Title"] = "Phone";
+    ViewData["ActivePage"] = ManageNavPages.Phone;
+}
+
+<h4>@ViewData["Title"]</h4>
+<partial name="_StatusMessage" model="Model.StatusMessage" />
+<div class="row">
+    <div class="col-md-6">
+        <form id="profile-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <div class="row">
+                    <label asp-for="Input.PhoneNumber"></label>
+
+                    <div class="col-3 col-md-2">
+                        <div class="form-group">
+                            <input asp-for="Input.CountryCode" class="form-control inline" />
+                            <p style="font-size:11px;">Country Code</p>
+                        </div>
+                    </div>
+
+                    <div class="col-9 col-md-6">
+                        <div class="form-group">
+                            <input asp-for="Input.PhoneNumber" id="phoneInput" class="form-control" />
+                            <p style="font-size:11px;">Phone Number</p>
+                        </div>
+                    </div>
+                    <span asp-validation-for="Input.CountryCode" class="text-danger"></span>
+                    <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                </div>
+
+                @if (Model.MaxSendAttemptsApiError == true)
+                {
+                        <span class="text-danger mb-2">Verification attempts were exceeded. You can send a new verification code in 10 minutes.</span>
+                }
+
+                @if (Model.PhoneNumberConfirmed == false && Model.PhoneVerificationFailed == null && Model.MaxSendAttemptsApiError == null)
+                {
+                        <div class="text-danger font-weight-bold">Your cell phone number has not been verified.</div>
+                        <div class="text-danger mb-4 font-weight-bold">Click the link to verify. <a class="text-primary" asp-page="/SendCellVerificationCode">Verify Cell</a></div>
+                }
+
+                @*@if (Model.PhoneNumberConfirmed == false && Model.PhoneVerificationFailed == true)
+                    {
+                    <div class="text-danger font-weight-bold mb-3">Your cell phone number could not be verified.</div>
+                    <div class="text-danger mb-4 font-weight-bold">Click the link to verify. <a class="text-primary" asp-page="/SendCellVerificationCode">Verify Cell</a></div>
+                    }*@
+
+                @if (Model.InvalidPhoneNumberApiError == true)
+                {
+                        <span class="text-danger mb-2">Please enter a valid phone number. Make sure to include the country code and area code then click save.</span>
+                        <img src="~/images/us_e164-noplus.png" class="img" alt="my image" />
+                }
+
+            </div>
+            <div class="row mt-2">
+                <div class="col-md-6">
+                    <button id="update-profile-button" type="submit" class="btn btn-primary">Save</button>
+                    <a class="btn btn-light mt-2" role="button" asp-area="" asp-controller="Home" asp-action="Index">Cancel</a>
+                </div>
+            </div>
+        </form>
+
+
+        <!-- Modal -->
+        <!--<div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">-->
+        <!-- Modal content-->
+        <!--<div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Enter validation code</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="modalOptions" method="post">
+                            <div class="form-group">
+                                <input asp-for="Input.VerificationCode" class="form-control" />
+                                <span asp-validation-for="Input.VerificationCode" class="text-danger"></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Save</button>
+                            <button type="button" class="btn btn-default ml-2" data-dismiss="modal">Close</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    @*let phone = "@Model.Phone";*@
+</script>
+
+@*<script type="module" src="~/js/FillPhone.js"></script>*@
+
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+}

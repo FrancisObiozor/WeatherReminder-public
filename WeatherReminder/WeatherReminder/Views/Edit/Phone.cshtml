@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Phone";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model WeatherReminder.ViewModels.EditPhoneViewModel
+
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <h1>@ViewData["Title"]</h1>
+
+        <form asp-action="Phone" method="post">
+            <h4>Enter new phone number</h4>
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Phone"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a class="btn btn-primary" role="button" asp-area="" asp-controller="Home" asp-action="Index">Cancel</a>
+
+        </form>
+    </div>
+
+    <div class="col-md-4"></div>
+</div>

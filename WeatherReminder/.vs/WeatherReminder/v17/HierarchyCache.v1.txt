@@ -1,0 +1,747 @@
+﻿++Solution 'WeatherReminder' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WeatherReminder.sln
+++WeatherReminder
+i:{00000000-0000-0000-0000-000000000000}:WeatherReminder
+++Connected Services 
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2916
+++Dependencies
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2915
+++Properties
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\
+++wwwroot
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\
+++css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\css\
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\
+++js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\
+++xml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\xml\
+++favicon.ico
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\favicon.ico
+++Areas
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\
+++Identity
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\
+++Pages
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\
+++LoginUser
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\
+++ForgotPassword.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\login.cshtml
+++Login.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\login.cshtml.cs
+++Logout.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\logout.cshtml
+++Profile
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\
+++RegisterUser
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\registeruser\
+++_RegisterModal.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\registeruser\_registermodal.cshtml
+++Register.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\registeruser\register.cshtml
+++RegisterConfirmation.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\registeruser\registerconfirmation.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\_validationscriptspartial.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\_viewimports.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\_viewimports.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\_viewstart.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\_viewstart.cshtml
+++IdentityHostingStartup.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\identityhostingstartup.cs
+++Controllers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\controllers\
+++EditController.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\controllers\editcontroller.cs
+++HomeController.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\controllers\homecontroller.cs
+++ReminderController.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\controllers\remindercontroller.cs
+++Migrations
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\
+++Models
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\
+++ApiModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\
+++BackgroundModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\backgroundmodel\
+++BackgroundTasks.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\backgroundmodel\backgroundtasks.cs
+++IBackgroundTasks.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\backgroundmodel\ibackgroundtasks.cs
+++DataStorageModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\datastoragemodel\
+++HelpFunctionModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\helpfunctionmodel\
+++HomepageModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\homepagemodel\
+++PositionModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\positionmodel\
+++UnconfirmedUsers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\unconfirmedusers\
+++WeatherReminderModel
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\
+++ViewModels
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\
+++EditViewModels
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\editviewmodels\
+++HomeViewModels
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\homeviewmodels\
+++RemindersViewModels
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\remindersviewmodels\
+++Views
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\
+++Edit
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\edit\
+++Home
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\home\
+++IndexPartials
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\indexpartials\
+++Index.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\index.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\home\index.cshtml
+++Privacy.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\privacy.cshtml
+++Welcome.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\welcome.cshtml
+++Reminder
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\
+++Shared
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\shared\
+++appsettings.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\appsettings.json
+++Program.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\program.cs
+++ScaffoldingReadMe.txt
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\scaffoldingreadme.txt
+++Startup.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\startup.cs
+++Azure Key Vault (WeatherReminder)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2944
+++SQL Server Database (WeatherReminderDbContextConnection)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2942
+++Analyzers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:analyzers
+++Frameworks
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:frameworks
+++Packages
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:packages
+++PublishProfiles
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\publishprofiles\
+++ServiceDependencies
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\
+++launchSettings.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\launchsettings.json
+++serviceDependencies.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies.json
+++site.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\css\site.css
+++LoginImage.jpg
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\loginimage.jpg
+++reminder.jpg
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\reminder.jpg
+++snow.jpg
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\snow.jpg
+++thermometer.jpg
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\thermometer.jpg
+++umbrella.png
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\umbrella.png
+++US_e164-noplus.png
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\images\us_e164-noplus.png
+++AddReminder.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\addreminder.js
+++AutoCompleteModal.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\autocompletemodal.js
+++EditReminder.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\editreminder.js
+++FillPhone.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\fillphone.js
+++FillProfile.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\fillprofile.js
+++GetLocalTime.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\getlocaltime.js
+++GetLocationFromBrowser.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\getlocationfrombrowser.js
+++GetTodaysDate.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\gettodaysdate.js
+++OnResizeEvent.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\onresizeevent.js
+++RemoveReminder.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\removereminder.js
+++site.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\site.js
+++UseCurrentLocation.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\usecurrentlocation.js
+++VerificationCode.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\verificationcode.js
+++VerifyCellModal.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\js\verifycellmodal.js
+++bootstrap
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\
+++jquery
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery\
+++jquery-validation
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation-unobtrusive\
+++ForgotPassword.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\forgotpassword.cshtml.cs
+++ForgotPasswordConfirmation.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\forgotpasswordconfirmation.cshtml.cs
+++Logout.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\loginuser\logout.cshtml.cs
+++Account
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\
+++EmailUser
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\
+++Password
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\
+++Phone
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\phone\
+++_Layout.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\shared\_layout.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\_layout.cshtml
+++Register.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\registeruser\register.cshtml.cs
+++RegisterConfirmation.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\registeruser\registerconfirmation.cshtml.cs
+++UnconfirmedUserDb
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\
+++20200804185628_Initial.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20200804185628_initial.cs
+++20210119192943_registration-update.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210119192943_registration-update.cs
+++20210310043432_updatedUserLocation.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210310043432_updateduserlocation.cs
+++20210321020731_AddedCellVerification.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210321020731_addedcellverification.cs
+++20210510212221_daily forecast.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210510212221_daily forecast.cs
+++20210518175328_MovedDailyForecastProperty.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210518175328_moveddailyforecastproperty.cs
+++20210808220247_production.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210808220247_production.cs
+++20210810030204_countrycode.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210810030204_countrycode.cs
+++20210815043222_timezonedifference.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210815043222_timezonedifference.cs
+++20210815044255_timezonedifferenceToString.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210815044255_timezonedifferencetostring.cs
+++20210821013422_ConsolidatedReminders.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210821013422_consolidatedreminders.cs
+++20210914021122_UnconfirmedAccounts.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210914021122_unconfirmedaccounts.cs
+++20210914023010_removeUnconfirmedUserFromWeatherReminderDBContext.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210914023010_removeunconfirmeduserfromweatherreminderdbcontext.cs
+++20220117235714_01-17-21 RENEW.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20220117235714_01-17-21 renew.cs
+++WeatherReminderDbContextModelSnapshot.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\weatherreminderdbcontextmodelsnapshot.cs
+++ApiKeys
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\apikeys\
+++AutoCompleteApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\
+++EmailApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\
+++GeocodeApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\
+++IpAddressGeocodeApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\ipaddressgeocodeapi\
+++LocationFromBrowserApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\locationfrombrowserapi\
+++TextMessageApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\
+++WeatherForecastApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\
+++IWeatherReminderUserRepository.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\datastoragemodel\iweatherreminderuserrepository.cs
+++UnconfirmedUserDbContext.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\datastoragemodel\unconfirmeduserdbcontext.cs
+++WeatherReminderDbContext.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\datastoragemodel\weatherreminderdbcontext.cs
+++WeatherReminderUserRepository.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\datastoragemodel\weatherreminderuserrepository.cs
+++HelperFunctions.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\helpfunctionmodel\helperfunctions.cs
+++IHelperFunctions.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\helpfunctionmodel\ihelperfunctions.cs
+++HomepageStats.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\homepagemodel\homepagestats.cs
+++IHomepageStats.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\homepagemodel\ihomepagestats.cs
+++CityStateCountry.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\positionmodel\citystatecountry.cs
+++Coordinates.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\positionmodel\coordinates.cs
+++IUnconfirmedUserRepository.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\unconfirmedusers\iunconfirmeduserrepository.cs
+++UnconfirmedUser.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\unconfirmedusers\unconfirmeduser.cs
+++UnconfirmedUserRepository.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\unconfirmedusers\unconfirmeduserrepository.cs
+++AppFormManager.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\appformmanager.cs
+++Reminder.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\reminder.cs
+++ReminderDetails.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\reminderdetails.cs
+++Snow.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\snow.cs
+++Temperature.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\temperature.cs
+++Umbrella.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\umbrella.cs
+++UserLocation.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\userlocation.cs
+++WeatherReminderUser.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\weatherreminderuser.cs
+++WeatherSettings.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\weatherremindermodel\weathersettings.cs
+++EditPhoneViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\editviewmodels\editphoneviewmodel.cs
+++EditSnowViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\editviewmodels\editsnowviewmodel.cs
+++EditTemperatureViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\editviewmodels\edittemperatureviewmodel.cs
+++EditUmbrellaViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\editviewmodels\editumbrellaviewmodel.cs
+++ErrorViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\homeviewmodels\errorviewmodel.cs
+++HomePageViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\homeviewmodels\homepageviewmodel.cs
+++DisplayRemindersViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\remindersviewmodels\displayremindersviewmodel.cs
+++EditRemindersViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\remindersviewmodels\editremindersviewmodel.cs
+++ReminderViewModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\viewmodels\remindersviewmodels\reminderviewmodel.cs
+++Reminders.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\edit\reminders.cshtml
+++Snow.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\edit\snow.cshtml
+++Temperature.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\edit\temperature.cshtml
+++Umbrella.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\edit\umbrella.cshtml
+++_IndexHeading.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\indexpartials\_indexheading.cshtml
+++_IndexSetReminders.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\indexpartials\_indexsetreminders.cshtml
+++_IndexSettings.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\indexpartials\_indexsettings.cshtml
+++_IndexUpcomingReminders.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\home\indexpartials\_indexupcomingreminders.cshtml
+++Add.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\add.cshtml
+++AddSnow.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\addsnow.cshtml
+++AddTemperature.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\addtemperature.cshtml
+++AddUmbrella.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\addumbrella.cshtml
+++Display.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\display.cshtml
+++DisplaySnow.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\displaysnow.cshtml
+++DisplayTemperature.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\displaytemperature.cshtml
+++DisplayUmbrella.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\displayumbrella.cshtml
+++Edit.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\edit.cshtml
+++EditSnow.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\editsnow.cshtml
+++EditTemperature.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\edittemperature.cshtml
+++EditUmbrella.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\reminder\editumbrella.cshtml
+++_LoginPartial.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\views\shared\error.cshtml
+++appsettings.Development.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\appsettings.development.json
+++Dependency mssql1 is missing and needs to be configured for current profile.
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2943
+++Microsoft.AspNetCore.Analyzers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\microsoft.netcore.app
+++Azure.Extensions.AspNetCore.Configuration.Secrets (1.0.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2928
+++Azure.Identity (1.4.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2934
+++Azure.Security.KeyVault.Secrets (4.2.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2939
+++Hangfire.AspNetCore (1.7.22)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2931
+++Hangfire.SqlServer (1.7.22)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2930
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (3.1.5)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2933
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.15)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2935
+++Microsoft.AspNetCore.Identity.UI (3.1.15)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2940
+++Microsoft.EntityFrameworkCore.Design (3.1.17)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2929
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.15)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2927
+++Microsoft.EntityFrameworkCore.Tools (3.1.17)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2937
+++Microsoft.Extensions.Logging.Console (5.0.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2936
+++SendGrid (9.22.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2932
+++System.Net.Http.Json (5.0.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2941
+++Twilio (5.54.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2938
+++WeatherReminder20210807231414 - Web Deploy.pubxml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\publishprofiles\weatherreminder20210807231414 - web deploy.pubxml
+++local
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\local\
+++WeatherReminder20210807231414 - Web Deploy
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\weatherreminder20210807231414 - web deploy\
+++serviceDependencies.local.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies.local.json
+++serviceDependencies.WeatherReminder20210807231414 - Web Deploy.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies.weatherreminder20210807231414 - web deploy.json
+++dist
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery\dist\
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery\license.txt
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++DeletePersonalData.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\deletepersonaldata.cshtml
+++DownloadPersonalData.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\downloadpersonaldata.cshtml
+++PersonalData.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\personaldata.cshtml
+++TwoFactorAuthentication.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\twofactorauthentication.cshtml
+++ConfirmEmail.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\confirmemail.cshtml
+++ConfirmEmailChange.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\confirmemailchange.cshtml
+++Email.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\email.cshtml
+++EnterVerificationCode.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\enterverificationcode.cshtml
+++_ManageNav.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\_managenav.cshtml
+++_StatusMessage.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\_statusmessage.cshtml
+++ManageNavPages.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\home\managenavpages.cs
+++ChangePassword.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\changepassword.cshtml
+++ResetPassword.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\resetpasswordconfirmation.cshtml
+++SendCellVerificationCode.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\phone\sendcellverificationcode.cshtml
+++UpdatePhoneInProfile.cshtml
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\phone\updatephoneinprofile.cshtml
+++20210914022836_UnconfirmedAccountsUpdate.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20210914022836_unconfirmedaccountsupdate.cs
+++20210914215443_UnconfirmedAccountsUpdate2.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20210914215443_unconfirmedaccountsupdate2.cs
+++20220117191041_initial.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20220117191041_initial.cs
+++20220118000220_01-17-21 RENEW.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20220118000220_01-17-21 renew.cs
+++UnconfirmedUserDbContextModelSnapshot.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\unconfirmeduserdbcontextmodelsnapshot.cs
+++20200804185628_Initial.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20200804185628_initial.designer.cs
+++20210119192943_registration-update.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210119192943_registration-update.designer.cs
+++20210310043432_updatedUserLocation.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210310043432_updateduserlocation.designer.cs
+++20210321020731_AddedCellVerification.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210321020731_addedcellverification.designer.cs
+++20210510212221_daily forecast.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210510212221_daily forecast.designer.cs
+++20210518175328_MovedDailyForecastProperty.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210518175328_moveddailyforecastproperty.designer.cs
+++20210808220247_production.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210808220247_production.designer.cs
+++20210810030204_countrycode.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210810030204_countrycode.designer.cs
+++20210815043222_timezonedifference.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210815043222_timezonedifference.designer.cs
+++20210815044255_timezonedifferenceToString.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210815044255_timezonedifferencetostring.designer.cs
+++20210821013422_ConsolidatedReminders.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210821013422_consolidatedreminders.designer.cs
+++20210914021122_UnconfirmedAccounts.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210914021122_unconfirmedaccounts.designer.cs
+++20210914023010_removeUnconfirmedUserFromWeatherReminderDBContext.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20210914023010_removeunconfirmeduserfromweatherreminderdbcontext.designer.cs
+++20220117235714_01-17-21 RENEW.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\20220117235714_01-17-21 renew.designer.cs
+++ApiKeys.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\apikeys\apikeys.cs
+++IKeyVault.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\apikeys\ikeyvault.cs
+++KeyVault.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\apikeys\keyvault.cs
+++TwilioText.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\apikeys\twiliotext.cs
+++AutoComplete.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\autocomplete.cs
+++AutoCompleteModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\autocompletemodel.cs
+++AutoCompleteResults.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\autocompleteresults.cs
+++IAutoComplete.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\iautocomplete.cs
+++Prediction.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\prediction.cs
+++StatesInAmerica.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\statesinamerica.cs
+++Term.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\term.cs
+++ValidateCityState.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\autocompleteapi\validatecitystate.cs
+++AuthMessageSenderOptions.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\authmessagesenderoptions.cs
+++CustomEmail.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\customemail.cs
+++CustomEmailModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\customemailmodel.cs
+++Email.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\email.cs
+++EmailModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\emailmodel.cs
+++ICustomEmail.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\icustomemail.cs
+++IEmail.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\emailapi\iemail.cs
+++GoogleGeocode
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\googlegeocode\
+++GeocodeLocation.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\geocodelocation.cs
+++GeocodeModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\geocodemodel.cs
+++IGeocodeLocation.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\igeocodelocation.cs
+++IIpAddressGeocode.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\ipaddressgeocodeapi\iipaddressgeocode.cs
+++IpAddressGeocode.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\ipaddressgeocodeapi\ipaddressgeocode.cs
+++IpAddressGeocodeModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\ipaddressgeocodeapi\ipaddressgeocodemodel.cs
+++IpAddressGeocodeResults.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\ipaddressgeocodeapi\ipaddressgeocoderesults.cs
+++ILocationFromBrowser.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\locationfrombrowserapi\ilocationfrombrowser.cs
+++LocationFromBrowser.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\locationfrombrowserapi\locationfrombrowser.cs
+++LocationFromBrowserController.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\locationfrombrowserapi\locationfrombrowsercontroller.cs
+++VerifyCellApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\verifycellapi\
+++ITextMessage.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\itextmessage.cs
+++TextMessage.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\textmessage.cs
+++TextMessageModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\textmessagemodel.cs
+++ForecastApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\
+++LocationApi
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\locationapi\
+++secrets1.arm.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\local\secrets1.arm.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\weatherreminder20210807231414 - web deploy\secrets1.arm.json
+++mssql1.arm.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\weatherreminder20210807231414 - web deploy\mssql1.arm.json
+++profile.arm.json
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\properties\servicedependencies\weatherreminder20210807231414 - web deploy\profile.arm.json
+++jquery.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++DeletePersonalData.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\deletepersonaldata.cshtml.cs
+++DownloadPersonalData.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\downloadpersonaldata.cshtml.cs
+++PersonalData.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\personaldata.cshtml.cs
+++TwoFactorAuthentication.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\account\twofactorauthentication.cshtml.cs
+++ConfirmEmail.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\confirmemail.cshtml.cs
+++ConfirmEmailChange.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\confirmemailchange.cshtml.cs
+++Email.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\email.cshtml.cs
+++EnterVerificationCode.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\emailuser\enterverificationcode.cshtml.cs
+++Index.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\home\index.cshtml.cs
+++ChangePassword.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\changepassword.cshtml.cs
+++ResetPassword.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\resetpassword.cshtml.cs
+++ResetPasswordConfirmation.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\password\resetpasswordconfirmation.cshtml.cs
+++SendCellVerificationCode.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\phone\sendcellverificationcode.cshtml.cs
+++UpdatePhoneInProfile.cshtml.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\areas\identity\pages\profile\phone\updatephoneinprofile.cshtml.cs
+++20210914022836_UnconfirmedAccountsUpdate.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20210914022836_unconfirmedaccountsupdate.designer.cs
+++20210914215443_UnconfirmedAccountsUpdate2.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20210914215443_unconfirmedaccountsupdate2.designer.cs
+++20220117191041_initial.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20220117191041_initial.designer.cs
+++20220118000220_01-17-21 RENEW.Designer.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\migrations\unconfirmeduserdb\20220118000220_01-17-21 renew.designer.cs
+++AddressComponents.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\googlegeocode\addresscomponents.cs
+++GeocodeResults.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\googlegeocode\geocoderesults.cs
+++Geometry.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\googlegeocode\geometry.cs
+++Location.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\googlegeocode\location.cs
+++Result.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\geocodeapi\googlegeocode\result.cs
+++IVerifyCell.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\verifycellapi\iverifycell.cs
+++VerifyCell.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\verifycellapi\verifycell.cs
+++VerifyCellModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\textmessageapi\verifycellapi\verifycellmodel.cs
+++DailyForecast.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\dailyforecast.cs
+++Day.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\day.cs
+++IWeatherForecast.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\iweatherforecast.cs
+++Night.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\night.cs
+++TemperatureForecast.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\temperatureforecast.cs
+++WeatherForecast.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\weatherforecast.cs
+++WeatherForecastApi.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\weatherforecastapi.cs
+++WeatherForecastModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\forecastapi\weatherforecastmodel.cs
+++ILocationKey.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\locationapi\ilocationkey.cs
+++LocationKey.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\locationapi\locationkey.cs
+++LocationKeyApi.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\locationapi\locationkeyapi.cs
+++LocationKeyModel.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\apimodel\weatherforecastapi\locationapi\locationkeymodel.cs
+++bootstrap.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-CeruleanTheme.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-ceruleantheme.css
+++bootstrap-grid.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++BackgroundTaskHostedService.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\backgroundmodel\backgroundtaskhostedservice.cs
+++IScopedFactory.cs
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\onedrive\documents\software-development\csharp\personal portfolio\weather reminder\weatherreminder\weatherreminder\models\backgroundmodel\iscopedfactory.cs
+++Script Documents
+++VM5
+++aspnetcore-browser-refresh.js
+++browserLink
+++Microsoft.Extensions.Logging (7.0.0)
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:>2949
+++Microsoft.Extensions.Logging.Generators
+i:{a1ca62bb-0d5c-48c7-8d17-8eb3597b4c5c}:c:\users\fobio\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Index
+++UpdatePhoneInProfile
+++Email
+++ChangePassword
+++PersonalData
+++Login

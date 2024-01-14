@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model             ReminderViewModel
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+
+            <h1 class="display-4">Add Reminder</h1>
+            <form asp-controller="Reminder" asp-action="AddUmbrella" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="DaysBeforeEvent" class="control-label font-weight-bold"></label>
+                    <input asp-for="DaysBeforeEvent" class="form-control" />
+                    <p class="text-primary">Note: A value of 0 is the day of the event.</p>
+                    <span asp-validation-for="DaysBeforeEvent" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ReminderTime" class="control-label font-weight-bold"></label>
+                    <input asp-for="ReminderTime" class="form-control" />
+                    <span asp-validation-for="ReminderTime" class="text-danger"></span>
+                </div>
+
+                <input type="hidden" asp-for="Reminders" value="@Model.Reminders">
+
+                @*<input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />*@
+
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Save" />
+                    <a asp-controller="Edit" asp-action="Umbrella" class="btn bg-light">Cancel</a>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</div>
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.16.0/jquery.validate.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.6/jquery.validate.unobtrusive.min.js"></script>

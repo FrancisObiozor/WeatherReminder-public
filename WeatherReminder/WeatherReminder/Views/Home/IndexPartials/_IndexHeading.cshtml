@@ -1,0 +1,25 @@
+﻿@using WeatherReminder.ViewModels;
+@using WeatherReminder.ViewModels.HomeViewModels
+@model HomePageViewModel
+
+
+
+<div class="text-center">
+    <h1 class="display-4 mb-5">Dashboard</h1>
+</div>
+
+
+@if (Model.PhoneNumberConfirmed == false)
+{
+        <div class="text-danger font-weight-bold text-center">Your cell phone number has not been verified.</div>
+        <div class="text-danger mb-4 font-weight-bold text-center">Click the link to verify. <a class="text-primary" asp-area="Identity" asp-page="/Profile/Phone/SendCellVerificationCode">Verify Cell</a></div>
+}
+<div class="text-center">
+    <h5 class="mb-2" id="TodaysDate"></h5>
+</div>
+
+<div class="text-center font-weight-bold mb-3">
+    @Model.City, @Model.State, @Model.Country <a class="text-primary " asp-area="Identity" asp-page="/Profile/Home/Index">Edit Location</a>
+</div>
+
+<script type="module" src="~/js/GetTodaysDate.js"></script>

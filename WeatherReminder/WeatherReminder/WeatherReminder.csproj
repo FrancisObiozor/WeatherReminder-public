@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-WeatherReminder-6527749D-F7B8-46D8-B48C-453D243DF45E</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\**" />
+    <Compile Remove="Models\ApiModel\GeocodeApi\Opencage GeoCoder API\**" />
+    <Compile Remove="wwwroot\NewFolder1\**" />
+    <Content Remove="Data\**" />
+    <Content Remove="Models\ApiModel\GeocodeApi\Opencage GeoCoder API\**" />
+    <Content Remove="wwwroot\NewFolder1\**" />
+    <EmbeddedResource Remove="Data\**" />
+    <EmbeddedResource Remove="Models\ApiModel\GeocodeApi\Opencage GeoCoder API\**" />
+    <EmbeddedResource Remove="wwwroot\NewFolder1\**" />
+    <None Remove="Data\**" />
+    <None Remove="Models\ApiModel\GeocodeApi\Opencage GeoCoder API\**" />
+    <None Remove="wwwroot\NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ApplicationDbContext.cs" />
+    <Compile Remove="Models\ApiModel\TextMessageApi\VerifyCellApi\CellVerificationStatus.cs" />
+    <Compile Remove="Models\ApiModel\TextMessageApi\VerifyCellApi\ICellVerificationStatus.cs" />
+    <Compile Remove="Models\WeatherReminderModel\ITemperatureReminder.cs" />
+    <Compile Remove="Models\WeatherReminderModel\TemperatureReminder.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Edit\Phone.cshtml" />
+    <Content Remove="wwwroot\js\AddSnowReminder.js" />
+    <Content Remove="wwwroot\js\AddTemperatureReminder.js" />
+    <Content Remove="wwwroot\js\AddUmbrellaReminder.js" />
+    <Content Remove="wwwroot\js\DisplayReminder.js" />
+    <Content Remove="wwwroot\js\Edit.js" />
+    <Content Remove="wwwroot\js\EditSnowReminder.js" />
+    <Content Remove="wwwroot\js\EditTemperatureReminder.js" />
+    <Content Remove="wwwroot\js\EditUmbrellaReminder.js" />
+    <Content Remove="wwwroot\js\index.js" />
+    <Content Remove="wwwroot\js\PullReminder.js" />
+    <Content Remove="wwwroot\js\RemoveSnowReminder.js" />
+    <Content Remove="wwwroot\js\RemoveTemperatureReminder.js" />
+    <Content Remove="wwwroot\js\RemoveUmbrellaReminder.js" />
+    <Content Remove="wwwroot\js\SaveReminder.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.0.0" />
+    <PackageReference Include="Azure.Identity" Version="1.4.0" />
+    <PackageReference Include="Azure.Security.KeyVault.Secrets" Version="4.2.0" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.7.22" />
+    <PackageReference Include="Hangfire.SqlServer" Version="1.7.22" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
+    <PackageReference Include="SendGrid" Version="9.28.1" />
+    <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
+    <PackageReference Include="twilio" Version="5.54.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\xml\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\GetLocationFromBrowser.js" />
+  </ItemGroup>
+
+</Project>

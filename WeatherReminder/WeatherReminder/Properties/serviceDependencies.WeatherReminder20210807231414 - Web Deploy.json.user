@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-08-08T03:39:21.4647597Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-08-09T07:39:31.6768134Z"
+    }
+  },
+  "parameters": {
+    "WeatherReminder20210807231414.resourceGroupName": {
+      "Name": "WeatherReminder20210807231414.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "FranObiApps"
+    },
+    "WeatherReminder20210807231414.subscriptionId": {
+      "Name": "WeatherReminder20210807231414.subscriptionId",
+      "Type": "subscription",
+      "Value": "ec35aef5-8c62-4c69-830c-1f48bd70d27c"
+    },
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "FranObiApps"
+    },
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ec35aef5-8c62-4c69-830c-1f48bd70d27c"
+    },
+    "WeatherReminder20210807231414.resourceGroupLocation": {
+      "Name": "WeatherReminder20210807231414.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "WeatherReminder20210807231414.resourceName": {
+      "Name": "WeatherReminder20210807231414.resourceName",
+      "Type": null,
+      "Value": "WeatherReminder20210807231414"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "FranObiApps"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "ec35aef5-8c62-4c69-830c-1f48bd70d27c"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "ec35aef5-8c62-4c69-830c-1f48bd70d27c"
+    }
+  }
+}

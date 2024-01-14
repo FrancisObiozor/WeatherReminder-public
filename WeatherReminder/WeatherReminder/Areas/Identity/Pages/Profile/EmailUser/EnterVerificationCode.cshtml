@@ -1,0 +1,39 @@
+﻿@page
+@model EnterVerificationCodeModel
+@{
+    ViewData["Title"] = "Enter Verification Code";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h4>@ViewData["Title"]</h4>
+<div class="row">
+    <div class="col-md-6">
+        <form id="profile-form" asp-page="EnterVerificationCode" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <input asp-for="VerificationCode" id="cityInput" class="form-control" />
+                <span asp-validation-for="VerificationCode" class="text-danger"></span>
+                @if (Model.VerificationFailed == true)
+                {
+                        <span class="text-danger mb-2">Invalid Code. After 5 attempts you will be redirected to your profile.</span>
+                }
+                @if (Model.VerificationAttempts == 0)
+                {
+                        <span class="text-primary mb-2">Verification code has been sent to your phone. It may take several seconds.</span>
+                }
+            </div>
+
+            <input type="hidden" asp-for="CountryCode" value="@Model.CountryCode">
+            <input type="hidden" asp-for="PhoneNumber" value="@Model.PhoneNumber">
+            <input type="hidden" asp-for="VerificationAttempts" value="@Model.VerificationAttempts">
+            <input type="hidden" asp-for="VerificationFailed" value="@Model.VerificationFailed">
+
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a class="btn btn-light" role="button" asp-area="Identity" asp-page="/Profile/Home/Index">Cancel</a>
+        </form>
+
+    </div>
+</div>
+
+

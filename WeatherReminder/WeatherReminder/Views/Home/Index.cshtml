@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using WeatherReminder.Models.WeatherReminderModel
+@using WeatherReminder.ViewModels;
+@using WeatherReminder.ViewModels.HomeViewModels
+@inject SignInManager<WeatherReminderUser> SignInManager
+@inject UserManager<WeatherReminderUser> UserManager
+@model HomePageViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row justify-content-center" style="margin-top: 30px;">
+        <partial name="/Views/Home/IndexPartials/_IndexHeading.cshtml" model="Model" />
+    </div>
+
+    <div class="row justify-content-center" style="margin-top: 30px;">
+        <partial name="/Views/Home/IndexPartials/_IndexSettings.cshtml" model="Model" />
+    </div>
+
+    <hr> @*horizontal line*@
+
+    <div class="row justify-content-center" style="margin-top: 30px;">
+        <partial name="/Views/Home/IndexPartials/_IndexUpcomingReminders.cshtml" model="Model" />
+    </div>
+
+    <div class="row justify-content-center" style="margin-top: 30px;">
+        <partial name="/Views/Home/IndexPartials/_IndexSetReminders.cshtml" model="Model" />
+    </div>
+</div>

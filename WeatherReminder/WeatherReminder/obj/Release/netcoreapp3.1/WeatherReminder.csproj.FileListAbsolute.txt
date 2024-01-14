@@ -1,0 +1,499 @@
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.StaticWebAssets.xml
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.exe
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.deps.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.runtimeconfig.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.runtimeconfig.dev.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.Views.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.Views.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\SendGrid.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Twilio.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.AssemblyReference.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.AssemblyInfoInputs.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.AssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.CoreCompileInputs.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\staticwebassets\WeatherReminder.StaticWebAssets.Manifest.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\staticwebassets\WeatherReminder.StaticWebAssets.xml
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\scopedcss\bundle\WeatherReminder.styles.css
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.TagHelpers.input.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.TagHelpers.output.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorCoreGenerate.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnterVerificationCode.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\UpdatePhoneInProfile.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Pages\SendCellVerificationCode.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Snow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Temperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Umbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Welcome.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddSnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplaySnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplayTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplayUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditSnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorTargetAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorTargetAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.Views.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.CopyComplete
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.genruntimeconfig.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.StaticWebAssets.xml
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.exe
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.deps.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.runtimeconfig.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.runtimeconfig.dev.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.Views.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.Views.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\SendGrid.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\Twilio.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.AssemblyReference.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.AssemblyInfoInputs.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.AssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.CoreCompileInputs.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\staticwebassets\WeatherReminder.StaticWebAssets.Manifest.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\staticwebassets\WeatherReminder.StaticWebAssets.xml
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\scopedcss\bundle\WeatherReminder.styles.css
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.TagHelpers.input.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.TagHelpers.output.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorCoreGenerate.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnterVerificationCode.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\UpdatePhoneInProfile.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Pages\SendCellVerificationCode.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Snow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Temperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Umbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Welcome.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddSnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplaySnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplayTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplayUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditSnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorTargetAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorTargetAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.Views.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.CopyComplete
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder - Current\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.genruntimeconfig.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.StaticWebAssets.xml
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.exe
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.deps.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.runtimeconfig.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.runtimeconfig.dev.json
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.Views.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\WeatherReminder.Views.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\SendGrid.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\Twilio.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.AssemblyReference.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.AssemblyInfoInputs.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.AssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.CoreCompileInputs.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\staticwebassets\WeatherReminder.StaticWebAssets.Manifest.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\staticwebassets\WeatherReminder.StaticWebAssets.xml
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\scopedcss\bundle\WeatherReminder.styles.css
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.TagHelpers.input.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.TagHelpers.output.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorCoreGenerate.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnterVerificationCode.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\UpdatePhoneInProfile.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Pages\SendCellVerificationCode.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Reminders.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Snow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Temperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Edit\Umbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Home\Welcome.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\Add.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddSnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\AddUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\Display.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplaySnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplayTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\DisplayUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\Edit.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditSnow.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditTemperature.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Reminder\EditUmbrella.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorTargetAssemblyInfo.cache
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.RazorTargetAssemblyInfo.cs
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.Views.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.csproj.CopyComplete
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.dll
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.pdb
+C:\Users\fobio\OneDrive\Documents\Coding\C#\Personal Portfolio\Weather Reminder\Latest\WeatherReminder\WeatherReminder\obj\Release\netcoreapp3.1\WeatherReminder.genruntimeconfig.cache

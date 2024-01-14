@@ -1,0 +1,131 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Profile";
+    ViewData["ActivePage"] = ManageNavPages.Index;
+}
+
+<h3>@ViewData["Title"]</h3>
+<partial name="_StatusMessage" model="Model.StatusMessage" />
+<div class="row">
+    <div class="col-md-6">
+        <form id="profile-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <p class="text-danger" id="noOptionsExist"></p>
+            <div class="form-group">
+                <label asp-for="Input.City"></label>
+                <input asp-for="Input.City" id="cityInput" class="form-control" />
+                <span asp-validation-for="Input.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.State"></label>
+                <input asp-for="Input.State" id="stateInput" class="form-control" />
+                <span asp-validation-for="Input.State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.Country"></label>
+                <input asp-for="Input.Country" id="countryInput" class="form-control" />
+                <span asp-validation-for="Input.Country" class="text-danger"></span>
+            </div>
+
+            <h5 class="mt-4">Settings</h5>
+            <div class="row mt-2">
+                <div class="col-md-8">
+                    <ul class="list-group">
+                        <li class="list-group-item border border-secondary border-1">
+                            <div class="form-row">
+                                <label asp-for="Input.TextMessageNotifications"></label>
+                                <input asp-for="Input.TextMessageNotifications" id="isText" type="checkbox" class="form-check-input ml-3" style="max-width:25px; max-height:25px; position: relative;" />
+                                <span asp-validation-for="Input.TextMessageNotifications" class="text-danger"></span>
+                            </div>
+                        </li>
+
+                        <li class="list-group-item border border-secondary border-1">
+                            <div class="form-row">
+                                <label asp-for="Input.EmailNotifications"></label>
+                                <input asp-for="Input.EmailNotifications" id="isEmail" type="checkbox" class="form-check-input ml-3" style="max-width:25px; max-height:25px; position: relative;" />
+                                <span asp-validation-for="Input.EmailNotifications" class="text-danger"></span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <button id="update-profile-button" type="submit" class="btn btn-primary">Save</button>
+                    <a class="btn btn-light ml-2" role="button" asp-area="" asp-controller="Home" asp-action="Index">Cancel</a>
+                </div>
+            </div>
+        </form>
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Location Options</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <form id="modalOptions">
+                            <div class="form-group mb-4">
+
+                                @if (Model.Options != null)
+                                {
+                                    @for (var i = 0; i < Model.Options.Count; i++)
+                                    {
+                                        if (i == 0)
+                                        {
+                                                        <div class="form-check">
+                                                            <input class="form-check-input radioButton" type="radio" name="option" checked>
+                                                            <label class="form-check-label radioButtonLabel">@Model.Options[i]</label>
+                                                        </div>
+                                        }
+                                        else
+                                        {
+                                                        <div class="form-check">
+                                                            <input class="form-check-input radioButton" type="radio" name="option">
+                                                            <label class="form-check-label radioButtonLabel">@Model.Options[i]</label>
+                                                        </div>
+                                        }
+                                    }
+                                }
+
+                            </div>
+                            <hr />
+                            <button type="button" class="btn btn-primary" id="saveLocationOption">Save</button>
+                            <button type="button" class="btn btn-default ml-2" data-dismiss="modal">Close</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+    @*let textNotifications = "@Model.TextMessageNotifications";
+        let emailNotifications = "@Model.EmailNotifications";*@
+
+    let isLocationMatch = "@Model.IsLocationMatch";
+    let optionsExist = "@Model.OptionsExist";
+</script>
+
+<script type="module" src="~/js/UseCurrentLocation.js"></script>
+@*<script type="module" src="~/js/FillProfile.js"></script>*@
+@*<script type="module" src="~/js/VerifyCellModal.js"></script>*@
+
+<script type="module" src="~/js/AutoCompleteModal.js"></script>
+@*<script type="module" src="~/js/VerificationCode.js"></script>*@
+
+
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using WeatherReminder.Models.WeatherReminderModel
+@inject SignInManager<WeatherReminderUser> SignInManager
+@inject UserManager<WeatherReminderUser> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User))
+    {
+            <li class="nav-item">
+                <a id="userWelcome" class="nav-link text-dark" asp-area="Identity" asp-page="/Profile/Home/Index" title="Manage">Hello @User.Identity.Name!</a>
+            </li>
+
+            <li class="nav-item">
+                <form class="form-inline" asp-area="Identity" asp-page="/LoginUser/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+            </li>
+    }
+    else
+    {
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" asp-page="/RegisterUser/Register">Register</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="Identity" asp-page="/LoginUser/Login">Login</a>
+            </li>
+    }
+</ul>
+
+<script>
+</script>
+<script src="~/js/OnResizeEvent.js"></script>

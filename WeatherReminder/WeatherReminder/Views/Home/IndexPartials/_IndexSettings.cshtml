@@ -1,0 +1,98 @@
+﻿@using WeatherReminder.ViewModels;
+@using WeatherReminder.ViewModels.HomeViewModels
+@model HomePageViewModel
+
+<div class="col-md-12 mb-4">
+
+    <form asp-action="Index" method="post">
+        <div class="container align-items-stretch justify-content-center ">
+            <h2 class="text-center">Settings</h2>
+            <div class="row mt-2    ">
+                <div class="col-md-4 ">
+                    @*Temperature*@
+                    <ul class="list-group border border-dark border-2">
+                        <li class="list-group-item text-center list-group-item-action active bg-primary">
+                            <h4 class="text-white inline">Temperature</h4>  <img src="/images/thermometer.jpg" class="img-fluid img-thumbnail" style="max-height: 40px;" alt="Responsive image">
+                        </li>
+                        <li class="list-group-item">
+                            <div class="container">
+                                <div class="row">
+
+                                    <div class="col-md-9 font-weight-bold bg-secondary rounded">Temperature Reminder On/Off</div>
+                                    <div class="col-md-3">
+                                        <input asp-for="IsTemperatureOn" class="form-check-input ml-3 h-100 w-75" type="checkbox" id="isReminderInput" style="top:-3px; max-width:25px; max-height:25px; position: relative;" />
+                                        <span asp-validation-for="IsTemperatureOn" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="row mt-1">
+
+                                    <div class="col-md-9 font-weight-bold bg-secondary rounded">Temperature Cutoff</div>
+                                    <div class="col-md-3">
+                                        <input asp-for="TemperatureCutoff" class="form-control ml-3 mr-1 inline" id="temperatureCutOffInput" style="max-width: 65px; position: relative;" />
+                                        <span asp-validation-for="TemperatureCutoff" class="text-danger"></span>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+
+
+                <div class="col-md-4 ">
+                    @*Umbrella*@
+                    <ul class="list-group border border-dark border-2 h-100 bg-white">
+                        <li class="list-group-item text-center list-group-item-action active bg-primary">
+                            <h4 class="text-white inline mr-4">Umbrella</h4>
+                            <img src="/images/umbrella.png" class="img-fluid img-thumbnail" style="max-height: 40px;" alt="Responsive image">
+                        </li>
+                        <li class="list-group-item custom-list-item">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-9 font-weight-bold bg-secondary rounded">Umbrella Reminder On/Off</div>
+                                    <div class="col-md-3">
+                                        <input asp-for="IsUmbrellaOn" class="form-check-input ml-3 h-100 w-75" type="checkbox" id="isReminderInput" style="top:-3px; max-width:25px; max-height:25px; position: relative;" />
+                                        <span asp-validation-for="IsUmbrellaOn" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-md-4">
+                    @*Snow*@
+                    <ul class="list-group border border-dark border-2 h-100 bg-white">
+                        <li class="list-group-item text-center list-group-item-action active bg-primary">
+                            <h4 class="text-white inline mr-5">Snow</h4>
+                            <img src="/images/snow.jpg" class="img-fluid img-thumbnail ml-1" style="max-height: 40px;" alt="Responsive image">
+                        </li>
+                        <li class="list-group-item custom-list-item">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-9 font-weight-bold bg-secondary rounded">Snow Reminder On/Off</div>
+                                    <div class="col-md-3">
+                                        <input asp-for="IsSnowOn" class="form-check-input ml-3 h-100 w-75" type="checkbox" id="isReminderInput" style="top:-3px; max-width:25px; max-height:25px; position: relative;" />
+                                        <span asp-validation-for="IsSnowOn" class="text-danger"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="row justify-content-center mt-2">
+                <div class="col-md-4">
+                    <button class="list-group-item list-group-item-action hover text-center bg-success text-white font-weight-bold mt-3 btn btn-success" type="submit">Save Settings</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+<style>
+    .custom-list-item {
+        border-bottom: none;
+    }
+</style>
